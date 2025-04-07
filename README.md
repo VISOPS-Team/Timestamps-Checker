@@ -7,8 +7,14 @@ Timestamp Checker is a script that extracts the time of the first observation an
 ## Requirements
 1. Python 3.x: Ensure Python is installed and available in your system's PATH.
 2. Dependencies: 
-* os
-* csv
-3. converted folders should be in rinex and rtk folders
+    * os
+    * csv
+3. Folder Structure:
+    * Ensure you have the rinex and rtk folders in your working directory.
+    * The converted folders should be inside the rinex and rtk folders.
+## Installation
+1. Clone or Download the Repository
+2. Ensure Python is installed:
+     ''python --version
 
 
