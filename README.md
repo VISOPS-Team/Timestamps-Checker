@@ -4,4 +4,11 @@ Timestamp Checker is a script that extracts the time of the first observation an
 1. Extracts TIME OF FIRST OBS and TIME OF LAST OBS from .obs files.
 2. Sorts .obs files chronologically by the time of first observation.
 3. Outputs the results in a CSV file (time_observations_all.csv).
+## Requirements
+1. Python 3.x: Ensure Python is installed and available in your system's PATH.
+2. Dependencies: 
+* os
+* csv
+3. converted folders should be in rinex and rtk folders
+
 
