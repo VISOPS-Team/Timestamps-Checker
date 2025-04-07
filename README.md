@@ -14,7 +14,7 @@ Timestamp Checker is a script that extracts the time of the first observation an
     * The converted folders should be inside the rinex and rtk folders.
 ## Installation
 1. Clone or Download the Repository
-2. Ensure Python is installed:
-     ''python --version
+2. Ensure Python is installed 
+         '''python --version
 
 
